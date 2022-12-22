@@ -1,0 +1,32 @@
+ UAT transaction URL's
+https://sandbox.solutionsaefinancial.com/merchantservices/transactions/payrequest
+https://sandbox.solutionsaefinancial.com/CORE_2.2.2/transaction/jsonProcess/JSONrequest
+
+
+TEST transaction URL'S
+https://sandbox.solutionsaefinancial.com/CORE_SANDBOX/transaction/jsonProcess/JSONrequest
+
+
+
+NEW URL's Added in UAT envoirment
+https://sandbox.solutionsaefinancial.com/CORE_2.2.2/v1/payments
+
+
+
+||||||||||||||||||||||=============================|||||||||||||||||||||=======================||||||||||||||||||||||||=======================|||||||||||||||||||||||||||
+
+
+
+PRODUCTION transaction URL's
+https://payment.solutionsaefinancial.com/merchantservices/transactions/payrequest
+https://payment.solutionsaefinancial.com/CORE_2.2.2/transaction/jsonProcess/JSONrequest
+
+
+
+EST transaction URL'S
+https://payment.solutionsaefinancial.com/CORE_SANDBOX/transaction/jsonProcess/JSONrequest
+
+
+
+NEW URL's Added in UAT envoirment
+https://sandbox.solutionsaefinancial.com/CORE_2.2.2/v1/payments
